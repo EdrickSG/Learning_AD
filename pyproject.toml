@@ -1,0 +1,11 @@
+[project]
+name = "learning-ad"
+version = "0.1.0"
+requires-python = ">=3.13"
+dependencies = [
+    "ipykernel>=7.4.0",
+    "jax>=0.12.1",
+    "matplotlib>=3.11.2",
+    "notebook>=7",
+    "plotly>=7.1.0",
+]
